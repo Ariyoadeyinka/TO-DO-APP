@@ -12,7 +12,7 @@ export default function Todo() {
   return (
     <div>
       <form onSubmit={handleSUbmit}>
-        <input
+        <input 
           onChange={(e) => setTodo(e.target.value)}
           value={todo}
           type="text"

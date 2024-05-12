@@ -1,0 +1,32 @@
+.todoform {
+  background-color: white;
+  border-radius: 14px;
+  padding: 30px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  box-shadow: 0 4px 6px rgb(0, 0, 0, 0.2);
+}
+.Inputbox {
+  width: 100%;
+  border: none;
+  display: block;
+  color: plum;
+  font-family: cursive;
+  font-size: 20px;
+}
+.Inputbox:focus {
+  outline: none;
+}
+.submitButton {
+  display: inline-block;
+  border: none;
+  border-radius: 4px;
+  background-color: plum;
+  padding: 12px;
+  color: white;
+  cursor: pointer;
+}
+.formContainer {
+  display: flex;
+}

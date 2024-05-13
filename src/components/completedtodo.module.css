@@ -1,0 +1,13 @@
+.completed {
+  margin: 0 auto;
+  width: 25%;
+  background-color: plum;
+  padding: 20px;
+  margin-top: 50px;
+  border-radius: 10px;
+  color: white;
+  font-family: cursive;
+}
+.boxes{
+    display: flex;
+}
